@@ -6,6 +6,12 @@ package pwo.app;
 
 import pwo.utils.SequenceTools;
 
+/**
+ * Klasa SeqToOutApp <br>
+ *
+ * @author student
+ * @version 1.0.0
+ */
 public class SeqToOutApp extends SeqToFileApp {
 
     @Override

@@ -1,7 +1,12 @@
 package pwo.seq;
 
 import java.math.BigDecimal;
-
+/**
+ * Klasa obsługująca lucas generator <br>
+ *
+ * @author student
+ * @version 1.0.0
+ */
 public class LucasGenerator extends FibonacciGenerator {
 
     public LucasGenerator() {

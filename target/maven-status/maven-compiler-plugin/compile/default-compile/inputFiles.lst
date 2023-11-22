@@ -1,4 +1,10 @@
-/home/student/Pulpit/pwo/lab3/src/main/java/pwo/Zadanie1.java
-/home/student/Pulpit/pwo/lab3/src/main/java/pwo/FibonacciGenerator.java
-/home/student/Pulpit/pwo/lab3/src/main/java/pwo/SequenceTools.java
-/home/student/Pulpit/pwo/lab3/src/main/java/pwo/LucasGenerator.java
+/home/student/NetBeansProjects/pwo-lab05/src/main/java/pwo/utils/SequenceTools.java
+/home/student/NetBeansProjects/pwo-lab05/src/main/java/pwo/seq/TribonacciGenerator.java
+/home/student/NetBeansProjects/pwo-lab05/src/main/java/pwo/seq/FibonacciGenerator.java
+/home/student/NetBeansProjects/pwo-lab05/src/main/java/pwo/seq/LucasGenerator.java
+/home/student/NetBeansProjects/pwo-lab05/src/main/java/pwo/app/Sequence.java
+/home/student/NetBeansProjects/pwo-lab05/src/main/java/pwo/app/SeqToOutApp.java
+/home/student/NetBeansProjects/pwo-lab05/src/main/java/pwo/seq/Generator.java
+/home/student/NetBeansProjects/pwo-lab05/src/main/java/pwo/app/SeqToFileApp.java
+/home/student/NetBeansProjects/pwo-lab05/src/main/java/pwo/utils/SequenceGenerator.java
+/home/student/NetBeansProjects/pwo-lab05/src/main/java/pwo/seq/SeqType.java

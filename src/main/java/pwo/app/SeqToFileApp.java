@@ -5,6 +5,12 @@ import pwo.utils.SequenceTools;
 import java.nio.file.Paths;
 import java.nio.file.InvalidPathException;
 
+/**
+ * Klasa SeqToFileApp <br>
+ * @xd
+ * @author student
+ * @version 1.0.0
+ */
 class SeqToFileApp {
 
     protected SeqType seqType = null;

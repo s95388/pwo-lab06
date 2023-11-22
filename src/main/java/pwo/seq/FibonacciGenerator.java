@@ -2,6 +2,12 @@ package pwo.seq;
 
 import java.math.BigDecimal;
 
+/**
+ * Klasa wyliczająca ciag fibonacciego <br>
+ *
+ * @author student
+ * @version 1.0.0
+ */
 public class FibonacciGenerator extends Generator {
 
     public FibonacciGenerator() {

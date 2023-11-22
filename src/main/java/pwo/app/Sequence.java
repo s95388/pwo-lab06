@@ -1,5 +1,10 @@
 package pwo.app;
-
+/**
+ * Klasa Sequence <br>
+ *
+ * @author student
+ * @version 1.0.0
+ */
 public class Sequence {
 
     public static void main(String[] args) {

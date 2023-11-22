@@ -2,9 +2,24 @@ package pwo.seq;
 
 import java.math.BigDecimal;
 
+
+/**
+ * Klasa wyliczająca ciag tribonacciego <br>
+ * 
+ * @extends FibonacciGenerator
+ * 
+ * @author student
+ * @version 1.0.0
+ */
 public class TribonacciGenerator extends
         FibonacciGenerator {
 
+    /**
+ * Funkcja definująca zmienną f_3.<br>
+ * 
+ *
+ * @see #TribonacciGenerator()
+ */
     public TribonacciGenerator() {
         f_3 = new BigDecimal(0);
     }

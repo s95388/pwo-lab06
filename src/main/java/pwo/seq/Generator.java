@@ -2,7 +2,12 @@ package pwo.seq;
 
 import java.math.BigDecimal;
 import pwo.utils.SequenceGenerator;
-
+/**
+ * Klasa generatora <br>
+ *
+ * @author student
+ * @version 1.0.0
+ */
 abstract class Generator implements SequenceGenerator {
 
     protected int lastIndex = 0;
